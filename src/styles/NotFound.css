@@ -1,0 +1,21 @@
+.notFound-container{
+  width: 100%;
+  height: 100vh;
+  /* padding: 2rem 0; */
+  background: url("../images/stars.svg"), #1b1b25;
+  background-repeat: repeat;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.img-notFound{
+    width: 50vh;
+    height: 50vh;
+}
+
+.info-notFound{
+    margin: 20px;
+    padding: 10px;
+    color: #fff;
+}
